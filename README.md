@@ -137,10 +137,4 @@ java
 Copy code
 MIT License
 Copyright (c) 2025 Praneet
-✅ Quick Commands Summary
-Command	Purpose
-python manage.py runserver	Start Django server
-python manage.py createsuperuser	Create admin user
-python manage.py makemigrations	Prepare model changes
-python manage.py migrate	Apply database changes
-pip freeze > requirements.txt	Export dependencies
+
