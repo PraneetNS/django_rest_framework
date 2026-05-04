@@ -87,24 +87,6 @@ PUT	/api/posts/<id>/	Update a post
 DELETE	/api/posts/<id>/	Delete a post
 GET	/api/comments/	List all comments
 POST	/api/comments/	Create a comment
-
-🧠 Example JSON Body for POST
-Create Post
-json
-Copy code
-POST /api/posts/
-{
-    "title": "My First Post",
-    "content": "This is an example post created via Django REST API."
-}
-Create Comment
-json
-Copy code
-POST /api/comments/
-{
-    "post": 1,
-    "text": "This is a comment on the first post."
-}
 🧰 Tech Stack
 Backend: Django 5.x
 
