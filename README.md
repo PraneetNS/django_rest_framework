@@ -112,11 +112,4 @@ Praneet N.S
 📍 Django Developer | AI Enthusiast
 🌐 GitHub Profile
 
-🧩 License
-This project is open-source under the MIT License — feel free to fork, modify, and use it for your own learning or projects!
-
-java
-Copy code
-MIT License
-Copyright (c) 2025 Praneet
 
