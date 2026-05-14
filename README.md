@@ -107,9 +107,6 @@ Language: Python 3.13+
 
 🌍 Add deployment on Render or Heroku
 
-👨‍💻 Author
-Praneet N.S
-📍 Django Developer | AI Enthusiast
-🌐 GitHub Profile
+
 
 
