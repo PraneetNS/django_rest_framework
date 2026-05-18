@@ -96,16 +96,7 @@ Database: SQLite (can easily switch to PostgreSQL)
 
 Auth: JWT / Token Authentication
 
-Language: Python 3.13+
-
-💡 Future Enhancements
-🔁 Add Like/Unlike functionality for posts
-
-🧾 Add pagination and filtering
-
-📸 Add media upload (images for posts)
-
-🌍 Add deployment on Render or Heroku
+Language: Python 3.1
 
 
 
