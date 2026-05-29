@@ -87,17 +87,6 @@ PUT	/api/posts/<id>/	Update a post
 DELETE	/api/posts/<id>/	Delete a post
 GET	/api/comments/	List all comments
 POST	/api/comments/	Create a comment
-🧰 Tech Stack
-Backend: Django 5.x
-
-API Framework: Django REST Framework (DRF)
-
-Database: SQLite (can easily switch to PostgreSQL)
-
-Auth: JWT / Token Authentication
-
-Language: Python 3.1
-
 
 
 
